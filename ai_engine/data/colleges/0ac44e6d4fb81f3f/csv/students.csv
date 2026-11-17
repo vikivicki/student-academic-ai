@@ -1,0 +1,6 @@
+student_id,student_name,email,course_id,enrollment_date,status
+S101,Arun Kumar,arun.s101@acgcet.edu.in,C101,2024-07-01,Active
+S102,Meena Raj,meena.s102@acgcet.edu.in,C102,2024-07-02,Active
+S103,Karthik S,karthik.s103@acgcet.edu.in,C101,2024-07-03,Active
+S104,Priya M,priya.s104@acgcet.edu.in,C103,2024-07-04,Active
+S105,Vijay R,vijay.s105@acgcet.edu.in,C102,2024-07-05,Active

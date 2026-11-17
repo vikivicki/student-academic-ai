@@ -1,0 +1,5 @@
+
+mentor_id,mentor_name,email,course_id,available_hours_per_week
+M001,Rahul Kumar,rahul@example.com,C001,10
+M002,Priya Sharma,priya@example.com,C002,8
+M003,Karthik Raj,karthik@example.com,C003,12

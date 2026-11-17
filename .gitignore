@@ -1,0 +1,57 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+.env.*
+!.env.example
+
+# Backups
+ai_engine_backup/
+frontend_backup/
+*.zip
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+secrets/
+credentials.json
+
+ai_engine/venv/
+ai_engine/__pycache__/
+
+ai_engine/venv/
+ai_engine/__pycache__/
+
+# Dependencies and generated files
+**/venv/
+**/node_modules/
+**/__pycache__/
+**/dist/
+
+# Environment and secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Databases and runtime files
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+**/*.log
+**/*.err
+**/*.lock
+**/*.page
+**/*.tmp
+
+# Uploaded files and generated indexes
+ai_engine/uploads/
+ai_engine/faiss_index/

@@ -1,0 +1,5 @@
+
+course_id,course_name,duration_weeks,course_fee,passing_percentage
+C001,Python Programming,12,5000,40
+C002,Data Science,16,8000,40
+C003,Web Development,14,7000,40

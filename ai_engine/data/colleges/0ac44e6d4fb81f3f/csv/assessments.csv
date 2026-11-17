@@ -1,0 +1,6 @@
+assessment_id,student_id,course_id,assessment_name,marks_obtained,total_marks,assessment_date
+A101,S101,C101,Programming Test 1,85,100,2024-12-10
+A102,S102,C102,Data Science Test 1,75,100,2024-12-11
+A103,S103,C101,Programming Test 1,90,100,2024-12-12
+A104,S104,C103,Web Development Test 1,65,100,2024-12-13
+A105,S105,C102,Data Science Test 1,80,100,2024-12-14

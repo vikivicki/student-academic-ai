@@ -1,0 +1,7 @@
+
+assessment_id,student_id,course_id,assessment_name,marks_obtained,total_marks,assessment_date
+A001,S001,C001,Python Test 1,85,100,2024-12-10
+A002,S002,C002,Data Science Test 1,75,100,2024-12-11
+A003,S003,C001,Python Test 1,90,100,2024-12-12
+A004,S004,C003,Web Development Test 1,65,100,2024-12-13
+A005,S005,C002,Data Science Test 1,80,100,2024-12-14

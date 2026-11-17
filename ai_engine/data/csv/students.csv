@@ -1,0 +1,7 @@
+
+student_id,student_name,email,course_id,enrollment_date,status
+S001,Aarav Kumar,aarav@example.com,C001,2024-07-01,active
+S002,Diya Sharma,diya@example.com,C002,2024-07-05,active
+S003,Rohan Patel,rohan@example.com,C001,2024-07-10,active
+S004,Ananya Singh,ananya@example.com,C003,2024-07-15,active
+S005,Arjun Reddy,arjun@example.com,C002,2024-07-20,active

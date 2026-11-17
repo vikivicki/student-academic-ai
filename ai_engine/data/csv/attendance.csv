@@ -1,0 +1,7 @@
+
+attendance_id,student_id,course_id,total_classes,classes_attended,attendance_percentage
+AT001,S001,C001,40,36,90
+AT002,S002,C002,40,32,80
+AT003,S003,C001,40,38,95
+AT004,S004,C003,40,28,70
+AT005,S005,C002,40,34,85

@@ -1,0 +1,4 @@
+course_id,course_name,duration_weeks,course_fee,passing_percentage
+C101,Computer Science Fundamentals,12,5000,40
+C102,Data Science Fundamentals,12,5500,40
+C103,Web Development,10,4500,40
