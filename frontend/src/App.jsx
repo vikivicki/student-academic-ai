@@ -596,7 +596,7 @@ function App() {
 
                 <input
                   required
-                  pattern="[-a-z0-9]+"
+                  pattern="[a-z0-9]+(-[a-z0-9]+)*"
                   minLength="2"
                   value={signup.college_slug}
                   onChange={(e) =>

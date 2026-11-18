@@ -129,7 +129,11 @@ def admin_user(user=Depends(current_user)):
 
 class CollegeSignup(BaseModel):
     college_name: str = Field(min_length=2, max_length=120)
-    college_slug: str = Field(min_length=2, max_length=50, pattern=r"^[a-z0-9-]+$")
+    college_slug: str = Field(
+    min_length=2,
+    max_length=50,
+    pattern=r"^[a-z0-9]+(?:-[a-z0-9]+)*$"
+)
     admin_name: str = Field(min_length=2, max_length=100)
     admin_email: EmailStr
     password: str = Field(min_length=10, max_length=128)
